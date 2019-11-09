@@ -10,7 +10,7 @@ error_reporting(E_ALL);
 
 require __DIR__.'/vendor/autoload.php';
 
-$wsdl = "http://dfs.dayins.com/IssuedTravelService?wsdl";
+$wsdl = "Wsdl_url";
 $UserName = 'UserName';
 $password = '*****';
 
