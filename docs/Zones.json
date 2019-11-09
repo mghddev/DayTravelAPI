@@ -1,0 +1,1210 @@
+[
+  {
+    "Id": 107,
+    "Name": "شينگن",
+    "PolicyKind": 50,
+    "countries": [
+      {
+        "CountryId": 865,
+        "CountryName": "‏آلمان‏",
+        "LocationId": 14,
+        "LocationName": "Zone_Shengen"
+      },
+      {
+        "CountryId": 870,
+        "CountryName": "‏ايتاليا‏",
+        "LocationId": 14,
+        "LocationName": "Zone_Shengen"
+      },
+      {
+        "CountryId": 873,
+        "CountryName": "‏لوگزامبورگ‏",
+        "LocationId": 14,
+        "LocationName": "Zone_Shengen"
+      },
+      {
+        "CountryId": 874,
+        "CountryName": "‏ليتوانى‏",
+        "LocationId": 14,
+        "LocationName": "Zone_Shengen"
+      },
+      {
+        "CountryId": 875,
+        "CountryName": "‏بلژيک‏",
+        "LocationId": 14,
+        "LocationName": "Zone_Shengen"
+      },
+      {
+        "CountryId": 882,
+        "CountryName": "‏اسپانيا‏",
+        "LocationId": 14,
+        "LocationName": "Zone_Shengen"
+      },
+      {
+        "CountryId": 883,
+        "CountryName": "‏اتريش‏",
+        "LocationId": 14,
+        "LocationName": "Zone_Shengen"
+      },
+      {
+        "CountryId": 885,
+        "CountryName": "‏مجارستان‏",
+        "LocationId": 14,
+        "LocationName": "Zone_Shengen"
+      },
+      {
+        "CountryId": 889,
+        "CountryName": "‏هلند‏",
+        "LocationId": 14,
+        "LocationName": "Zone_Shengen"
+      },
+      {
+        "CountryId": 892,
+        "CountryName": "‏لهستان‏",
+        "LocationId": 14,
+        "LocationName": "Zone_Shengen"
+      },
+      {
+        "CountryId": 896,
+        "CountryName": "‏يونان‏",
+        "LocationId": 14,
+        "LocationName": "Zone_Shengen"
+      },
+      {
+        "CountryId": 897,
+        "CountryName": "‏سوئد‏",
+        "LocationId": 14,
+        "LocationName": "Zone_Shengen"
+      },
+      {
+        "CountryId": 905,
+        "CountryName": "‏استونى‏",
+        "LocationId": 14,
+        "LocationName": "Zone_Shengen"
+      },
+      {
+        "CountryId": 906,
+        "CountryName": "‏اسلواکى‏",
+        "LocationId": 14,
+        "LocationName": "Zone_Shengen"
+      },
+      {
+        "CountryId": 907,
+        "CountryName": "‏اسلونى‏",
+        "LocationId": 14,
+        "LocationName": "Zone_Shengen"
+      },
+      {
+        "CountryId": 911,
+        "CountryName": "‏بلغارستان‏",
+        "LocationId": 14,
+        "LocationName": "Zone_Shengen"
+      },
+      {
+        "CountryId": 915,
+        "CountryName": "‏پرتغال‏",
+        "LocationId": 14,
+        "LocationName": "Zone_Shengen"
+      },
+      {
+        "CountryId": 921,
+        "CountryName": "‏دانمارک",
+        "LocationId": 14,
+        "LocationName": "Zone_Shengen"
+      },
+      {
+        "CountryId": 922,
+        "CountryName": "‏رومانى‏",
+        "LocationId": 14,
+        "LocationName": "Zone_Shengen"
+      },
+      {
+        "CountryId": 927,
+        "CountryName": "‏سوئيس‏",
+        "LocationId": 14,
+        "LocationName": "Zone_Shengen"
+      },
+      {
+        "CountryId": 935,
+        "CountryName": "‏فرانسه‏",
+        "LocationId": 14,
+        "LocationName": "Zone_Shengen"
+      },
+      {
+        "CountryId": 936,
+        "CountryName": "‏فنلاند‏",
+        "LocationId": 14,
+        "LocationName": "Zone_Shengen"
+      },
+      {
+        "CountryId": 943,
+        "CountryName": "‏کرواسى‏",
+        "LocationId": 14,
+        "LocationName": "Zone_Shengen"
+      },
+      {
+        "CountryId": 948,
+        "CountryName": "‏نروژ‏",
+        "LocationId": 14,
+        "LocationName": "Zone_Shengen"
+      },
+      {
+        "CountryId": 953,
+        "CountryName": "‏مالت‏",
+        "LocationId": 14,
+        "LocationName": "Zone_Shengen"
+      },
+      {
+        "CountryId": 1026,
+        "CountryName": "شينگن",
+        "LocationId": 14,
+        "LocationName": "Zone_Shengen"
+      },
+      {
+        "CountryId": 1029,
+        "CountryName": "جمهورى چک",
+        "LocationId": 14,
+        "LocationName": "Zone_Shengen"
+      }
+    ]
+  },
+  {
+    "Id": 108,
+    "Name": "شينگن طلائي",
+    "PolicyKind": 50,
+    "countries": [
+      {
+        "CountryId": 865,
+        "CountryName": "‏آلمان‏",
+        "LocationId": 15,
+        "LocationName": "Shengen gold"
+      },
+      {
+        "CountryId": 870,
+        "CountryName": "‏ايتاليا‏",
+        "LocationId": 15,
+        "LocationName": "Shengen gold"
+      },
+      {
+        "CountryId": 873,
+        "CountryName": "‏لوگزامبورگ‏",
+        "LocationId": 15,
+        "LocationName": "Shengen gold"
+      },
+      {
+        "CountryId": 874,
+        "CountryName": "‏ليتوانى‏",
+        "LocationId": 15,
+        "LocationName": "Shengen gold"
+      },
+      {
+        "CountryId": 875,
+        "CountryName": "‏بلژيک‏",
+        "LocationId": 15,
+        "LocationName": "Shengen gold"
+      },
+      {
+        "CountryId": 882,
+        "CountryName": "‏اسپانيا‏",
+        "LocationId": 15,
+        "LocationName": "Shengen gold"
+      },
+      {
+        "CountryId": 883,
+        "CountryName": "‏اتريش‏",
+        "LocationId": 15,
+        "LocationName": "Shengen gold"
+      },
+      {
+        "CountryId": 885,
+        "CountryName": "‏مجارستان‏",
+        "LocationId": 15,
+        "LocationName": "Shengen gold"
+      },
+      {
+        "CountryId": 889,
+        "CountryName": "‏هلند‏",
+        "LocationId": 15,
+        "LocationName": "Shengen gold"
+      },
+      {
+        "CountryId": 892,
+        "CountryName": "‏لهستان‏",
+        "LocationId": 15,
+        "LocationName": "Shengen gold"
+      },
+      {
+        "CountryId": 896,
+        "CountryName": "‏يونان‏",
+        "LocationId": 15,
+        "LocationName": "Shengen gold"
+      },
+      {
+        "CountryId": 897,
+        "CountryName": "‏سوئد‏",
+        "LocationId": 15,
+        "LocationName": "Shengen gold"
+      },
+      {
+        "CountryId": 905,
+        "CountryName": "‏استونى‏",
+        "LocationId": 15,
+        "LocationName": "Shengen gold"
+      },
+      {
+        "CountryId": 906,
+        "CountryName": "‏اسلواکى‏",
+        "LocationId": 15,
+        "LocationName": "Shengen gold"
+      },
+      {
+        "CountryId": 907,
+        "CountryName": "‏اسلونى‏",
+        "LocationId": 15,
+        "LocationName": "Shengen gold"
+      },
+      {
+        "CountryId": 911,
+        "CountryName": "‏بلغارستان‏",
+        "LocationId": 15,
+        "LocationName": "Shengen gold"
+      },
+      {
+        "CountryId": 915,
+        "CountryName": "‏پرتغال‏",
+        "LocationId": 15,
+        "LocationName": "Shengen gold"
+      },
+      {
+        "CountryId": 921,
+        "CountryName": "‏دانمارک",
+        "LocationId": 15,
+        "LocationName": "Shengen gold"
+      },
+      {
+        "CountryId": 922,
+        "CountryName": "‏رومانى‏",
+        "LocationId": 15,
+        "LocationName": "Shengen gold"
+      },
+      {
+        "CountryId": 927,
+        "CountryName": "‏سوئيس‏",
+        "LocationId": 15,
+        "LocationName": "Shengen gold"
+      },
+      {
+        "CountryId": 935,
+        "CountryName": "‏فرانسه‏",
+        "LocationId": 15,
+        "LocationName": "Shengen gold"
+      },
+      {
+        "CountryId": 936,
+        "CountryName": "‏فنلاند‏",
+        "LocationId": 15,
+        "LocationName": "Shengen gold"
+      },
+      {
+        "CountryId": 943,
+        "CountryName": "‏کرواسى‏",
+        "LocationId": 15,
+        "LocationName": "Shengen gold"
+      },
+      {
+        "CountryId": 948,
+        "CountryName": "‏نروژ‏",
+        "LocationId": 15,
+        "LocationName": "Shengen gold"
+      },
+      {
+        "CountryId": 953,
+        "CountryName": "‏مالت‏",
+        "LocationId": 15,
+        "LocationName": "Shengen gold"
+      },
+      {
+        "CountryId": 1021,
+        "CountryName": "شينگن طلايي",
+        "LocationId": 15,
+        "LocationName": "Shengen gold"
+      },
+      {
+        "CountryId": 1029,
+        "CountryName": "جمهورى چک",
+        "LocationId": 15,
+        "LocationName": "Shengen gold"
+      }
+    ]
+  },
+  {
+    "Id": 109,
+    "Name": "کل جهان",
+    "PolicyKind": 50,
+    "countries": [
+      {
+        "CountryId": 880,
+        "CountryName": "‏ژاپن‏",
+        "LocationId": 16,
+        "LocationName": "wordwide"
+      },
+      {
+        "CountryId": 884,
+        "CountryName": "‏آمريکاى جنوبى‏",
+        "LocationId": 16,
+        "LocationName": "wordwide"
+      },
+      {
+        "CountryId": 890,
+        "CountryName": "‏کانادا‏",
+        "LocationId": 16,
+        "LocationName": "wordwide"
+      },
+      {
+        "CountryId": 898,
+        "CountryName": "‏آرژانتين‏",
+        "LocationId": 16,
+        "LocationName": "wordwide"
+      },
+      {
+        "CountryId": 909,
+        "CountryName": "‏برزيل‏",
+        "LocationId": 16,
+        "LocationName": "wordwide"
+      },
+      {
+        "CountryId": 913,
+        "CountryName": "‏پاراگوئه‏",
+        "LocationId": 16,
+        "LocationName": "wordwide"
+      },
+      {
+        "CountryId": 945,
+        "CountryName": "‏کوبا‏",
+        "LocationId": 16,
+        "LocationName": "wordwide"
+      },
+      {
+        "CountryId": 949,
+        "CountryName": "‏مکزيک‏",
+        "LocationId": 16,
+        "LocationName": "wordwide"
+      },
+      {
+        "CountryId": 956,
+        "CountryName": "‏آمريکا‏",
+        "LocationId": 16,
+        "LocationName": "wordwide"
+      },
+      {
+        "CountryId": 963,
+        "CountryName": "‏کلمبيا‏",
+        "LocationId": 16,
+        "LocationName": "wordwide"
+      },
+      {
+        "CountryId": 965,
+        "CountryName": "‏پاناما‏",
+        "LocationId": 16,
+        "LocationName": "wordwide"
+      },
+      {
+        "CountryId": 973,
+        "CountryName": "‏ونزوئلا‏",
+        "LocationId": 16,
+        "LocationName": "wordwide"
+      },
+      {
+        "CountryId": 981,
+        "CountryName": "‏شيلى‏",
+        "LocationId": 16,
+        "LocationName": "wordwide"
+      },
+      {
+        "CountryId": 986,
+        "CountryName": "‏اروگوئه‏",
+        "LocationId": 16,
+        "LocationName": "wordwide"
+      },
+      {
+        "CountryId": 990,
+        "CountryName": "باربادوس",
+        "LocationId": 16,
+        "LocationName": "wordwide"
+      },
+      {
+        "CountryId": 999,
+        "CountryName": "مونتسرات",
+        "LocationId": 16,
+        "LocationName": "wordwide"
+      },
+      {
+        "CountryId": 1005,
+        "CountryName": "مارتينيک",
+        "LocationId": 16,
+        "LocationName": "wordwide"
+      },
+      {
+        "CountryId": 1014,
+        "CountryName": "گويان",
+        "LocationId": 16,
+        "LocationName": "wordwide"
+      },
+      {
+        "CountryId": 1015,
+        "CountryName": "گويان فرانسه",
+        "LocationId": 16,
+        "LocationName": "wordwide"
+      },
+      {
+        "CountryId": 1020,
+        "CountryName": "آمريکا کانادا ژاپن",
+        "LocationId": 16,
+        "LocationName": "wordwide"
+      },
+      {
+        "CountryId": 1024,
+        "CountryName": "آمريکا",
+        "LocationId": 16,
+        "LocationName": "wordwide"
+      },
+      {
+        "CountryId": 1025,
+        "CountryName": "کاستاريکا",
+        "LocationId": 16,
+        "LocationName": "wordwide"
+      },
+      {
+        "CountryId": 1031,
+        "CountryName": "سنت کيتس و",
+        "LocationId": 16,
+        "LocationName": "wordwide"
+      },
+      {
+        "CountryId": 1032,
+        "CountryName": "سنت وينست و",
+        "LocationId": 16,
+        "LocationName": "wordwide"
+      },
+      {
+        "CountryId": 1034,
+        "CountryName": "نيکاراگوئه",
+        "LocationId": 16,
+        "LocationName": "wordwide"
+      }
+    ]
+  },
+  {
+    "Id": 110,
+    "Name": "کل جهان به جز آمريکا،کانادا،ژاپن",
+    "PolicyKind": 50,
+    "countries": [
+      {
+        "CountryId": 869,
+        "CountryName": "‏انگلستان‏",
+        "LocationId": 17,
+        "LocationName": "wordwide excluding usa / canada \u0026japan"
+      },
+      {
+        "CountryId": 876,
+        "CountryName": "‏بنگلادش‏",
+        "LocationId": 17,
+        "LocationName": "wordwide excluding usa / canada \u0026japan"
+      },
+      {
+        "CountryId": 877,
+        "CountryName": "‏روسيه‏",
+        "LocationId": 17,
+        "LocationName": "wordwide excluding usa / canada \u0026japan"
+      },
+      {
+        "CountryId": 879,
+        "CountryName": "‏کره جنوبى‏",
+        "LocationId": 17,
+        "LocationName": "wordwide excluding usa / canada \u0026japan"
+      },
+      {
+        "CountryId": 881,
+        "CountryName": "‏هندوستان‏",
+        "LocationId": 17,
+        "LocationName": "wordwide excluding usa / canada \u0026japan"
+      },
+      {
+        "CountryId": 886,
+        "CountryName": "‏ويتنام‏",
+        "LocationId": 17,
+        "LocationName": "wordwide excluding usa / canada \u0026japan"
+      },
+      {
+        "CountryId": 888,
+        "CountryName": "‏هنگ کنگ‏",
+        "LocationId": 17,
+        "LocationName": "wordwide excluding usa / canada \u0026japan"
+      },
+      {
+        "CountryId": 893,
+        "CountryName": "‏گرجستان‏",
+        "LocationId": 17,
+        "LocationName": "wordwide excluding usa / canada \u0026japan"
+      },
+      {
+        "CountryId": 894,
+        "CountryName": "‏مالزي",
+        "LocationId": 17,
+        "LocationName": "wordwide excluding usa / canada \u0026japan"
+      },
+      {
+        "CountryId": 901,
+        "CountryName": "‏آنتيل هلند‏",
+        "LocationId": 17,
+        "LocationName": "wordwide excluding usa / canada \u0026japan"
+      },
+      {
+        "CountryId": 902,
+        "CountryName": "‏ارمنستان‏",
+        "LocationId": 17,
+        "LocationName": "wordwide excluding usa / canada \u0026japan"
+      },
+      {
+        "CountryId": 903,
+        "CountryName": "‏ازبکستان‏",
+        "LocationId": 17,
+        "LocationName": "wordwide excluding usa / canada \u0026japan"
+      },
+      {
+        "CountryId": 904,
+        "CountryName": "‏استراليا‏",
+        "LocationId": 17,
+        "LocationName": "wordwide excluding usa / canada \u0026japan"
+      },
+      {
+        "CountryId": 908,
+        "CountryName": "‏اندونزى‏",
+        "LocationId": 17,
+        "LocationName": "wordwide excluding usa / canada \u0026japan"
+      },
+      {
+        "CountryId": 910,
+        "CountryName": "‏برمه‏",
+        "LocationId": 17,
+        "LocationName": "wordwide excluding usa / canada \u0026japan"
+      },
+      {
+        "CountryId": 912,
+        "CountryName": "‏بيلورسيا‏",
+        "LocationId": 17,
+        "LocationName": "wordwide excluding usa / canada \u0026japan"
+      },
+      {
+        "CountryId": 914,
+        "CountryName": "‏پاکستان‏",
+        "LocationId": 17,
+        "LocationName": "wordwide excluding usa / canada \u0026japan"
+      },
+      {
+        "CountryId": 916,
+        "CountryName": "‏تاجيکستان‏",
+        "LocationId": 17,
+        "LocationName": "wordwide excluding usa / canada \u0026japan"
+      },
+      {
+        "CountryId": 917,
+        "CountryName": "‏تايلند‏",
+        "LocationId": 17,
+        "LocationName": "wordwide excluding usa / canada \u0026japan"
+      },
+      {
+        "CountryId": 918,
+        "CountryName": "‏ترکمنستان‏",
+        "LocationId": 17,
+        "LocationName": "wordwide excluding usa / canada \u0026japan"
+      },
+      {
+        "CountryId": 919,
+        "CountryName": "‏جمهورى آذربايجان‏",
+        "LocationId": 17,
+        "LocationName": "wordwide excluding usa / canada \u0026japan"
+      },
+      {
+        "CountryId": 920,
+        "CountryName": "‏چين‏",
+        "LocationId": 17,
+        "LocationName": "wordwide excluding usa / canada \u0026japan"
+      },
+      {
+        "CountryId": 923,
+        "CountryName": "‏زئير‏",
+        "LocationId": 17,
+        "LocationName": "wordwide excluding usa / canada \u0026japan"
+      },
+      {
+        "CountryId": 924,
+        "CountryName": "‏زلاندنو‏",
+        "LocationId": 17,
+        "LocationName": "wordwide excluding usa / canada \u0026japan"
+      },
+      {
+        "CountryId": 925,
+        "CountryName": "‏سريلانکا‏",
+        "LocationId": 17,
+        "LocationName": "wordwide excluding usa / canada \u0026japan"
+      },
+      {
+        "CountryId": 926,
+        "CountryName": "‏سنگاپور‏",
+        "LocationId": 17,
+        "LocationName": "wordwide excluding usa / canada \u0026japan"
+      },
+      {
+        "CountryId": 937,
+        "CountryName": "‏فيليپين‏",
+        "LocationId": 17,
+        "LocationName": "wordwide excluding usa / canada \u0026japan"
+      },
+      {
+        "CountryId": 939,
+        "CountryName": "‏قرقيزستان‏",
+        "LocationId": 17,
+        "LocationName": "wordwide excluding usa / canada \u0026japan"
+      },
+      {
+        "CountryId": 940,
+        "CountryName": "‏قزاقستان‏",
+        "LocationId": 17,
+        "LocationName": "wordwide excluding usa / canada \u0026japan"
+      },
+      {
+        "CountryId": 942,
+        "CountryName": "‏کامبوج‏",
+        "LocationId": 17,
+        "LocationName": "wordwide excluding usa / canada \u0026japan"
+      },
+      {
+        "CountryId": 944,
+        "CountryName": "‏کره شمالي",
+        "LocationId": 17,
+        "LocationName": "wordwide excluding usa / canada \u0026japan"
+      },
+      {
+        "CountryId": 950,
+        "CountryName": "‏تايوان‏",
+        "LocationId": 17,
+        "LocationName": "wordwide excluding usa / canada \u0026japan"
+      },
+      {
+        "CountryId": 951,
+        "CountryName": "‏بخارست‏",
+        "LocationId": 17,
+        "LocationName": "wordwide excluding usa / canada \u0026japan"
+      },
+      {
+        "CountryId": 952,
+        "CountryName": "‏اسلونيا‏",
+        "LocationId": 17,
+        "LocationName": "wordwide excluding usa / canada \u0026japan"
+      },
+      {
+        "CountryId": 954,
+        "CountryName": "‏يوگسلاوى‏",
+        "LocationId": 17,
+        "LocationName": "wordwide excluding usa / canada \u0026japan"
+      },
+      {
+        "CountryId": 957,
+        "CountryName": "‏ليبى‏",
+        "LocationId": 17,
+        "LocationName": "wordwide excluding usa / canada \u0026japan"
+      },
+      {
+        "CountryId": 958,
+        "CountryName": "‏بيروموزامبيک‏",
+        "LocationId": 17,
+        "LocationName": "wordwide excluding usa / canada \u0026japan"
+      },
+      {
+        "CountryId": 959,
+        "CountryName": "‏آلبانى‏",
+        "LocationId": 17,
+        "LocationName": "wordwide excluding usa / canada \u0026japan"
+      },
+      {
+        "CountryId": 960,
+        "CountryName": "‏مقدونيه‏",
+        "LocationId": 17,
+        "LocationName": "wordwide excluding usa / canada \u0026japan"
+      },
+      {
+        "CountryId": 961,
+        "CountryName": "‏ايرلند‏",
+        "LocationId": 17,
+        "LocationName": "wordwide excluding usa / canada \u0026japan"
+      },
+      {
+        "CountryId": 962,
+        "CountryName": "‏بوسنى و هرزگوين‏",
+        "LocationId": 17,
+        "LocationName": "wordwide excluding usa / canada \u0026japan"
+      },
+      {
+        "CountryId": 966,
+        "CountryName": "‏مالي‏",
+        "LocationId": 17,
+        "LocationName": "wordwide excluding usa / canada \u0026japan"
+      },
+      {
+        "CountryId": 967,
+        "CountryName": "‏افغانستان‏",
+        "LocationId": 17,
+        "LocationName": "wordwide excluding usa / canada \u0026japan"
+      },
+      {
+        "CountryId": 968,
+        "CountryName": "‏اسکاتلند‏",
+        "LocationId": 17,
+        "LocationName": "wordwide excluding usa / canada \u0026japan"
+      },
+      {
+        "CountryId": 969,
+        "CountryName": "‏کنيا‏",
+        "LocationId": 17,
+        "LocationName": "wordwide excluding usa / canada \u0026japan"
+      },
+      {
+        "CountryId": 971,
+        "CountryName": "‏نيوزلند‏",
+        "LocationId": 17,
+        "LocationName": "wordwide excluding usa / canada \u0026japan"
+      },
+      {
+        "CountryId": 974,
+        "CountryName": "‏بلاروس‏",
+        "LocationId": 17,
+        "LocationName": "wordwide excluding usa / canada \u0026japan"
+      },
+      {
+        "CountryId": 975,
+        "CountryName": "‏داغستان‏",
+        "LocationId": 17,
+        "LocationName": "wordwide excluding usa / canada \u0026japan"
+      },
+      {
+        "CountryId": 979,
+        "CountryName": "‏صربستان ومونته نگرو‏",
+        "LocationId": 17,
+        "LocationName": "wordwide excluding usa / canada \u0026japan"
+      },
+      {
+        "CountryId": 980,
+        "CountryName": "‏بيلوروس‏",
+        "LocationId": 17,
+        "LocationName": "wordwide excluding usa / canada \u0026japan"
+      },
+      {
+        "CountryId": 982,
+        "CountryName": "‏جاورنه‏",
+        "LocationId": 17,
+        "LocationName": "wordwide excluding usa / canada \u0026japan"
+      },
+      {
+        "CountryId": 983,
+        "CountryName": "‏مولداوى‏",
+        "LocationId": 17,
+        "LocationName": "wordwide excluding usa / canada \u0026japan"
+      },
+      {
+        "CountryId": 987,
+        "CountryName": "‏کوزوو‏",
+        "LocationId": 17,
+        "LocationName": "wordwide excluding usa / canada \u0026japan"
+      },
+      {
+        "CountryId": 988,
+        "CountryName": "اوکراين",
+        "LocationId": 17,
+        "LocationName": "wordwide excluding usa / canada \u0026japan"
+      },
+      {
+        "CountryId": 991,
+        "CountryName": "مالديو",
+        "LocationId": 17,
+        "LocationName": "wordwide excluding usa / canada \u0026japan"
+      },
+      {
+        "CountryId": 992,
+        "CountryName": "مايوت",
+        "LocationId": 17,
+        "LocationName": "wordwide excluding usa / canada \u0026japan"
+      },
+      {
+        "CountryId": 994,
+        "CountryName": "مغولستان",
+        "LocationId": 17,
+        "LocationName": "wordwide excluding usa / canada \u0026japan"
+      },
+      {
+        "CountryId": 998,
+        "CountryName": "موناکو",
+        "LocationId": 17,
+        "LocationName": "wordwide excluding usa / canada \u0026japan"
+      },
+      {
+        "CountryId": 1000,
+        "CountryName": "ميکرونزي",
+        "LocationId": 17,
+        "LocationName": "wordwide excluding usa / canada \u0026japan"
+      },
+      {
+        "CountryId": 1002,
+        "CountryName": "نائورو",
+        "LocationId": 17,
+        "LocationName": "wordwide excluding usa / canada \u0026japan"
+      },
+      {
+        "CountryId": 1004,
+        "CountryName": "ماکائو",
+        "LocationId": 17,
+        "LocationName": "wordwide excluding usa / canada \u0026japan"
+      },
+      {
+        "CountryId": 1007,
+        "CountryName": "ليختن اشتاين",
+        "LocationId": 17,
+        "LocationName": "wordwide excluding usa / canada \u0026japan"
+      },
+      {
+        "CountryId": 1008,
+        "CountryName": "ليبريا",
+        "LocationId": 17,
+        "LocationName": "wordwide excluding usa / canada \u0026japan"
+      },
+      {
+        "CountryId": 1010,
+        "CountryName": "لائوس",
+        "LocationId": 17,
+        "LocationName": "wordwide excluding usa / canada \u0026japan"
+      },
+      {
+        "CountryId": 1011,
+        "CountryName": "لاتويا",
+        "LocationId": 17,
+        "LocationName": "wordwide excluding usa / canada \u0026japan"
+      },
+      {
+        "CountryId": 1012,
+        "CountryName": "گينه",
+        "LocationId": 17,
+        "LocationName": "wordwide excluding usa / canada \u0026japan"
+      },
+      {
+        "CountryId": 1017,
+        "CountryName": "کرانه باختري رود اردن",
+        "LocationId": 17,
+        "LocationName": "wordwide excluding usa / canada \u0026japan"
+      },
+      {
+        "CountryId": 1018,
+        "CountryName": "کموروس",
+        "LocationId": 17,
+        "LocationName": "wordwide excluding usa / canada \u0026japan"
+      },
+      {
+        "CountryId": 1019,
+        "CountryName": "سراسر جهان بجز آمريکا و کانادا وژاپن",
+        "LocationId": 17,
+        "LocationName": "wordwide excluding usa / canada \u0026japan"
+      },
+      {
+        "CountryId": 1023,
+        "CountryName": "منگوليا",
+        "LocationId": 17,
+        "LocationName": "wordwide excluding usa / canada \u0026japan"
+      },
+      {
+        "CountryId": 1027,
+        "CountryName": "اسرائيل",
+        "LocationId": 17,
+        "LocationName": "wordwide excluding usa / canada \u0026japan"
+      },
+      {
+        "CountryId": 1033,
+        "CountryName": "نپال",
+        "LocationId": 17,
+        "LocationName": "wordwide excluding usa / canada \u0026japan"
+      }
+    ]
+  },
+  {
+    "Id": 111,
+    "Name": "ترکيه ، آفريقا و کشورهاي خاورميانه",
+    "PolicyKind": 50,
+    "countries": [
+      {
+        "CountryId": 867,
+        "CountryName": "ايران",
+        "LocationId": 18,
+        "LocationName": "middle east africa \u0026turky"
+      },
+      {
+        "CountryId": 871,
+        "CountryName": "‏ترکيه‏",
+        "LocationId": 18,
+        "LocationName": "middle east africa \u0026turky"
+      },
+      {
+        "CountryId": 872,
+        "CountryName": "‏لبنان‏",
+        "LocationId": 18,
+        "LocationName": "middle east africa \u0026turky"
+      },
+      {
+        "CountryId": 891,
+        "CountryName": "‏مصر‏",
+        "LocationId": 18,
+        "LocationName": "middle east africa \u0026turky"
+      },
+      {
+        "CountryId": 899,
+        "CountryName": "‏آفريقاى جنوبى‏",
+        "LocationId": 18,
+        "LocationName": "middle east africa \u0026turky"
+      },
+      {
+        "CountryId": 900,
+        "CountryName": "‏آفريقاى مرکزى‏",
+        "LocationId": 18,
+        "LocationName": "middle east africa \u0026turky"
+      },
+      {
+        "CountryId": 928,
+        "CountryName": "‏سودان‏",
+        "LocationId": 18,
+        "LocationName": "middle east africa \u0026turky"
+      },
+      {
+        "CountryId": 929,
+        "CountryName": "‏سوريه‏",
+        "LocationId": 18,
+        "LocationName": "middle east africa \u0026turky"
+      },
+      {
+        "CountryId": 930,
+        "CountryName": "‏سومالي",
+        "LocationId": 18,
+        "LocationName": "middle east africa \u0026turky"
+      },
+      {
+        "CountryId": 931,
+        "CountryName": "‏سيرالئون‏",
+        "LocationId": 18,
+        "LocationName": "middle east africa \u0026turky"
+      },
+      {
+        "CountryId": 932,
+        "CountryName": "‏عراق‏",
+        "LocationId": 18,
+        "LocationName": "middle east africa \u0026turky"
+      },
+      {
+        "CountryId": 934,
+        "CountryName": "‏عمان‏",
+        "LocationId": 18,
+        "LocationName": "middle east africa \u0026turky"
+      },
+      {
+        "CountryId": 938,
+        "CountryName": "‏قبرس‏",
+        "LocationId": 18,
+        "LocationName": "middle east africa \u0026turky"
+      },
+      {
+        "CountryId": 946,
+        "CountryName": "‏کويت‏",
+        "LocationId": 18,
+        "LocationName": "middle east africa \u0026turky"
+      },
+      {
+        "CountryId": 947,
+        "CountryName": "‏يمن‏",
+        "LocationId": 18,
+        "LocationName": "middle east africa \u0026turky"
+      },
+      {
+        "CountryId": 955,
+        "CountryName": "‏اتيوپى‏",
+        "LocationId": 18,
+        "LocationName": "middle east africa \u0026turky"
+      },
+      {
+        "CountryId": 964,
+        "CountryName": "‏الجزاير‏",
+        "LocationId": 18,
+        "LocationName": "middle east africa \u0026turky"
+      },
+      {
+        "CountryId": 970,
+        "CountryName": "‏نيجريه‏",
+        "LocationId": 18,
+        "LocationName": "middle east africa \u0026turky"
+      },
+      {
+        "CountryId": 972,
+        "CountryName": "‏اريتره‏",
+        "LocationId": 18,
+        "LocationName": "middle east africa \u0026turky"
+      },
+      {
+        "CountryId": 976,
+        "CountryName": "‏تونس‏",
+        "LocationId": 18,
+        "LocationName": "middle east africa \u0026turky"
+      },
+      {
+        "CountryId": 978,
+        "CountryName": "‏اردن‏",
+        "LocationId": 18,
+        "LocationName": "middle east africa \u0026turky"
+      },
+      {
+        "CountryId": 984,
+        "CountryName": "‏ساحل عاج‏",
+        "LocationId": 18,
+        "LocationName": "middle east africa \u0026turky"
+      },
+      {
+        "CountryId": 985,
+        "CountryName": "‏زيمباوه‏",
+        "LocationId": 18,
+        "LocationName": "middle east africa \u0026turky"
+      },
+      {
+        "CountryId": 989,
+        "CountryName": "غنا",
+        "LocationId": 18,
+        "LocationName": "middle east africa \u0026turky"
+      },
+      {
+        "CountryId": 993,
+        "CountryName": "مراکش",
+        "LocationId": 18,
+        "LocationName": "middle east africa \u0026turky"
+      },
+      {
+        "CountryId": 995,
+        "CountryName": "موريتاني",
+        "LocationId": 18,
+        "LocationName": "middle east africa \u0026turky"
+      },
+      {
+        "CountryId": 996,
+        "CountryName": "موريس",
+        "LocationId": 18,
+        "LocationName": "middle east africa \u0026turky"
+      },
+      {
+        "CountryId": 997,
+        "CountryName": "موزامبيک",
+        "LocationId": 18,
+        "LocationName": "middle east africa \u0026turky"
+      },
+      {
+        "CountryId": 1001,
+        "CountryName": "ناميبيا",
+        "LocationId": 18,
+        "LocationName": "middle east africa \u0026turky"
+      },
+      {
+        "CountryId": 1003,
+        "CountryName": "مالاوي",
+        "LocationId": 18,
+        "LocationName": "middle east africa \u0026turky"
+      },
+      {
+        "CountryId": 1006,
+        "CountryName": "ماداگاسکار",
+        "LocationId": 18,
+        "LocationName": "middle east africa \u0026turky"
+      },
+      {
+        "CountryId": 1009,
+        "CountryName": "لسوتو",
+        "LocationId": 18,
+        "LocationName": "middle east africa \u0026turky"
+      },
+      {
+        "CountryId": 1013,
+        "CountryName": "گينه بيسائو",
+        "LocationId": 18,
+        "LocationName": "middle east africa \u0026turky"
+      },
+      {
+        "CountryId": 1016,
+        "CountryName": "کامرون",
+        "LocationId": 18,
+        "LocationName": "middle east africa \u0026turky"
+      },
+      {
+        "CountryId": 1028,
+        "CountryName": "تانزانيا",
+        "LocationId": 18,
+        "LocationName": "middle east africa \u0026turky"
+      },
+      {
+        "CountryId": 1030,
+        "CountryName": "‏جيبوتى‏",
+        "LocationId": 18,
+        "LocationName": "middle east africa \u0026turky"
+      }
+    ]
+  },
+  {
+    "Id": 112,
+    "Name": "عربستان سعودي،بحرين ، دبي ، قطر ، امارات متحده عربي",
+    "PolicyKind": 50,
+    "countries": [
+      {
+        "CountryId": 878,
+        "CountryName": "‏دبي",
+        "LocationId": 19,
+        "LocationName": "uea.qatar.dubai.bahrain.saudi arabia"
+      },
+      {
+        "CountryId": 887,
+        "CountryName": "‏امارات متحده عربى‏",
+        "LocationId": 19,
+        "LocationName": "uea.qatar.dubai.bahrain.saudi arabia"
+      },
+      {
+        "CountryId": 895,
+        "CountryName": "‏بحرين‏",
+        "LocationId": 19,
+        "LocationName": "uea.qatar.dubai.bahrain.saudi arabia"
+      },
+      {
+        "CountryId": 933,
+        "CountryName": "‏عربستان سعودى‏",
+        "LocationId": 19,
+        "LocationName": "uea.qatar.dubai.bahrain.saudi arabia"
+      },
+      {
+        "CountryId": 941,
+        "CountryName": "قطر",
+        "LocationId": 19,
+        "LocationName": "uea.qatar.dubai.bahrain.saudi arabia"
+      },
+      {
+        "CountryId": 1022,
+        "CountryName": "کشورهاي بحرين-کويت-عمان-‏عربستان سعودى‏-قطر-‏امارات متحده عربى‏",
+        "LocationId": 19,
+        "LocationName": "uea.qatar.dubai.bahrain.saudi arabia"
+      }
+    ]
+  },
+  {
+    "Id": 113,
+    "Name": "تمامي مرزهاي ورودي افغانستان به ايران",
+    "PolicyKind": 50,
+    "countries": []
+  }
+]
+
+

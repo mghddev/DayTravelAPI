@@ -1,0 +1,68 @@
+[
+  {
+    "Id": 9,
+    "Caption": "30000 يورو",
+    "Value": "30000",
+    "PolicyKind": 50
+  },
+  {
+    "Id": 10,
+    "Caption": "50000 يورو",
+    "Value": "50000",
+    "PolicyKind": 50
+  },
+  {
+    "Id": 11,
+    "Caption": "10000 يورو",
+    "Value": "10000",
+    "PolicyKind": 50
+  },
+  {
+    "Id": 12,
+    "Caption": "5000 يورو",
+    "Value": "5000",
+    "PolicyKind": 50
+  },
+  {
+    "Id": 1,
+    "Caption": "50.000يورو",
+    "Value": "50000",
+    "PolicyKind": 27
+  },
+  {
+    "Id": 2,
+    "Caption": "10.000يورو",
+    "Value": "10000",
+    "PolicyKind": 27
+  },
+  {
+    "Id": 3,
+    "Caption": "15.000يورو",
+    "Value": "15000",
+    "PolicyKind": 27
+  },
+  {
+    "Id": 4,
+    "Caption": "50.000يورو",
+    "Value": "50000",
+    "PolicyKind": 28
+  },
+  {
+    "Id": 5,
+    "Caption": "10.000يورو",
+    "Value": "10000",
+    "PolicyKind": 28
+  },
+  {
+    "Id": 7,
+    "Caption": "30.000يورو",
+    "Value": "30000",
+    "PolicyKind": 28
+  },
+  {
+    "Id": 8,
+    "Caption": "10.000يورو",
+    "Value": "10000",
+    "PolicyKind": 31
+  }
+]
