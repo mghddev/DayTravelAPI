@@ -11,7 +11,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "DayApi\\": "src/"
+      "mghddev\\dayapi\\": "src/"
     }
   },
   "minimum-stability": "stable",

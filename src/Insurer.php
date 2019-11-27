@@ -1,6 +1,6 @@
 <?php
 
-namespace DayApi;
+namespace mghddev\dayapi;
 
 class Insurer
 {

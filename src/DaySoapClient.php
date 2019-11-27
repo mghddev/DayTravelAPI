@@ -1,10 +1,10 @@
 <?php
 
-namespace DayApi;
+namespace mghddev\dayapi;
 
-use DayApi\Exception\ApiResponseConnectException;
-use DayApi\Exception\APIResponseException;
-use DayApi\Exception\CheckingDayAPIException;
+use mghddev\dayapi\Exception\ApiResponseConnectException;
+use mghddev\dayapi\Exception\APIResponseException;
+use mghddev\dayapi\Exception\CheckingDayAPIException;
 use SoapClient;
 use SoapFault;
 use function MongoDB\BSON\fromJSON;

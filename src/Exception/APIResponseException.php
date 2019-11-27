@@ -1,6 +1,6 @@
 <?php
 
-namespace DayApi\Exception;
+namespace mghddev\dayapi\Exception;
 
 class APIResponseException extends \Exception
 {
