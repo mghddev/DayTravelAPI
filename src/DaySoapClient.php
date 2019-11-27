@@ -7,7 +7,7 @@ use mghddev\dayapi\Exception\APIResponseException;
 use mghddev\dayapi\Exception\CheckingDayAPIException;
 use SoapClient;
 use SoapFault;
-use function MongoDB\BSON\fromJSON;
+
 
 class DaySoapClient implements iDayClient
 {
