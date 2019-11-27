@@ -4,6 +4,7 @@ namespace DayApi;
 
 use DayApi\Exception\ApiResponseConnectException;
 use DayApi\Exception\APIResponseException;
+use DayApi\Exception\CheckingDayAPIException;
 use SoapClient;
 use SoapFault;
 use function MongoDB\BSON\fromJSON;
@@ -75,9 +76,10 @@ class DaySoapClient implements iDayClient
     }
 
     /**
-     * @return mixed
+     * @return bool
      * @throws APIResponseException
      * @throws ApiResponseConnectException
+     * @throws CheckingDayAPIException
      */
     public function checkSafety()
     {
@@ -89,20 +91,23 @@ class DaySoapClient implements iDayClient
         $result = $this->getSoapClient()->CheckSafety($params)->CheckSafetyResult;
 
         if ($result->Error != 'Safety') {
-            throw new APIResponseException('Api of Day travel insurance isn\'t ready.');
+            throw new CheckingDayAPIException('Api of Day travel insurance isn\'t ready.');
         }
 
-        return $result;
+        return true;
     }
 
     /**
      * @param GetPriceDataObject $get_price_data_object
-     * @return array|mixed
+     * @return mixed
      * @throws APIResponseException
      * @throws ApiResponseConnectException
+     * @throws CheckingDayAPIException
      */
     function getPrice(GetPriceDataObject $get_price_data_object)
     {
+        $this->checkSafety();
+
         $UserName = $this->user_name;
         $Password = $this->password;
         $ZoneId = $get_price_data_object->getZoneId();
@@ -174,35 +179,42 @@ class DaySoapClient implements iDayClient
         $ReceiptDate = $issue_data_object->getReceiptDate();
         $ReceiptNumber = $issue_data_object->getPassportNumber();
 
-        $params = compact(
-            'UserName',
-            'Password',
-            'CountryCode',
-            'Coverage',
-            'Duration',
-            'GregorianBirthDay',
-            'GregorianBirthMonth',
-            'GregorianBirthYear',
-            'Address',
-            'BirthDay',
-            'BirthMonth',
-            'BirthYear',
-            'IdentityNumber',
-            'IsIranian',
-            'LastName',
-            'LatinLastName',
-            'LastName',
-            'MBirthYear',
-            'Mobile',
-            'Name',
-            'NationalCode',
-            'PhoneNumber',
-            'PassportNumber',
-            'ReceiptDate',
-            'ReceiptNumber'
-        );
+        $params = [
+            'UserName' => $this->user_name,
+            'Password' => $this->password,
+            'IssuedRequest' => [
+                'IssuingTravel' => [
+                    'CountryCode' => $issue_data_object->getCountryCode(),
+                    'Coverage' => $issue_data_object->getCoverage(),
+                    'Duration' => $issue_data_object->getDuration(),
+                    'GregorianBirthDay' => $issue_data_object->getGregorianBirthDay(),
+                    'GregorianBirthMonth' => $issue_data_object->getGregorianBirthMonth(),
+                    'GregorianBirthYear' => $issue_data_object->getGregorianBirthYear(),
+                    'Insurer' => [
+                        'Address' => $issue_data_object->getInsurer()->getAddress(),
+                        'BirthDay' => $issue_data_object->getInsurer()->getBirthDay(),
+                        'BirthMonth' => $issue_data_object->getInsurer()->getBirthMonth(),
+                        'BirthYear' => $issue_data_object->getInsurer()->getBirthYear(),
+                        'IdentityNumber' => $issue_data_object->getInsurer()->getIdentityNumber(),
+                        'IsIranian' => $issue_data_object->getInsurer()->getIsIranian(),
+                        'LastName' => $issue_data_object->getInsurer()->getLastName(),
+                        'LatinLastName' => $issue_data_object->getInsurer()->getLatinLastName(),
+                        'MBirthYear' => $issue_data_object->getInsurer()->getLatinName(),
+                        'Mobile' => $issue_data_object->getInsurer()->getMBirthYear(),
+                        'Name' => $issue_data_object->getInsurer()->getMobile(),
+                        'NationalCode' => $issue_data_object->getInsurer()->getName(),
+                        'PhoneNumber' => $issue_data_object->getInsurer()->getNationalCode(),
+                    ],
+                    'PassportNumber' => $issue_data_object->getInsurer()->getMobile(),
+                    'ReceiptDate' => $issue_data_object->getPassportNumber(),
+                    'ReceiptNumber' => $issue_data_object->getReceiptDate(),
+                ]
+            ]
+        ];
 
         $result = $this->getSoapClient()->TravelIssued($params)->TravelIssuedResult;
+        var_dump($result);
+        die();
 
         if ($result->Error != 'NotError') {
             throw new APIResponseException($result->Error);
@@ -228,7 +240,7 @@ class DaySoapClient implements iDayClient
             }, $zone['countries']);
 
             if (in_array($country_id, $a)) {
-                $countryZonesArray[] = $zone['Id'];
+                $countryZonesArray[] = ['id' => $zone['Id'], 'name' => $zone['Name']];
             }
         }
 
