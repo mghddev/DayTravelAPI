@@ -113,7 +113,7 @@ class DaySoapClient implements iDayClient
         $ZoneId = $get_price_data_object->getZoneId();
         $Age = $get_price_data_object->getAge();
         $Duration = $get_price_data_object->getDuration();
-        $Currency = null;
+        $Currency = 'Rial';
 
         $params = compact('UserName', 'Password', 'ZoneId', 'Age', 'Duration', 'Currency');
 
